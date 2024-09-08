@@ -31,4 +31,4 @@ An e-commerce platform for selling men's apparel, built with XAMPP and Visual St
 
 1. Clone this repository:
    ```bash
-   git clone <(https://github.com/aryan1210718/Ecommerce-Men-s-Apparel-Using-PHP-and-MySQL)>
+   git clone <https://github.com/aryan1210718/Ecommerce-Men-s-Apparel-Using-PHP-and-MySQL>
